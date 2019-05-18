@@ -1,7 +1,7 @@
 Liste ist falsch und muss noch überarbeitet werden
 # Classification
 
-**7 types of classification algorithms are discussed here:**
+**hier werden 7 Fallbeispiele für classification dargestellt, dabei handelt es sich um die am häugsten genutzten:**
   
 
 Files
