@@ -5,7 +5,8 @@ The data set was provided by the Prognostics CoE at NASA Ames.
   
 Format 	The set is in .mat format and has been zipped.  
   
-Datasets 	
+__Datasets__
+  
 -  Download Battery Data Set 1 (17902 downloads)  https://ti.arc.nasa.gov/c/5/  
 -  Download Battery Data Set 2 (11406 downloads)  https://ti.arc.nasa.gov/c/9/  
 -  Download Battery Data Set 3 (9065 downloads)   https://ti.arc.nasa.gov/c/14/  
