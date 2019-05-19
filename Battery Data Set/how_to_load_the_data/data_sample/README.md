@@ -8,7 +8,8 @@ B0006.mat	Data for Battery #6
 B0007.mat	Data for Battery #7
 B0018.mat	Data for Battery #18
 
-Data Structure:
+__Data Structure:__
+
 cycle:	top level structure array containing the charge, discharge and impedance operations
 	type: 	operation  type, can be charge, discharge or impedance
 	ambient_temperature:	ambient temperature (degree C)
