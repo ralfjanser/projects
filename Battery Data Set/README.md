@@ -13,6 +13,6 @@ Datasets
 -  Download Battery Data Set 5 (6507 downloads)   https://ti.arc.nasa.gov/c/16/  
 -  Download Battery Data Set 6 (7339 downloads)   https://ti.arc.nasa.gov/c/17/  
 
-__A Guide to Understanding Battery Specifications  __
+__A Guide to Understanding Battery Specifications__
   
 http://web.mit.edu/evt/summary_battery_specifications.pdf
