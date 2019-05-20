@@ -3,3 +3,7 @@ The matlab file format is incompatible with the most used programs for data anal
 More information about this format can be found on :  
   
   https://www.mathworks.com/help/pdf_doc/matlab/matfile_format.pdf
+  
+  
+  https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.loadmat.html
+  
