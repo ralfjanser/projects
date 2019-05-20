@@ -14,3 +14,4 @@ More information about this format can be found on :
   the extraction takes time and the data-space explodes
   the files need extracted up to 2 times more space
   
+  code works but needs improvement, some statistical fields are missing. it's not pretty formated and code is to complicated
