@@ -7,3 +7,9 @@ More information about this format can be found on :
   
   https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.loadmat.html
   
+  it is a pretty boring task to convert .mat files into somewhat useful
+  
+  the program here is still under development, it expects all files you want to extract in the data folder
+  the extraction takes time and the data-space explodes
+  the files need extracted up to 2 times more space
+  
