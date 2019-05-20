@@ -180,7 +180,7 @@ def mat_to_pandas(file):
     
 
 #********************************************
-
+print('Warning: for all files in the dataset this might take about one hour')
 data_files= 'data_all'
 files=os.listdir(data_files)
 
