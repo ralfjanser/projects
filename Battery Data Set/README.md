@@ -28,3 +28,11 @@ __Datasets__
 __A Guide to Understanding Battery Specifications__
   
 http://web.mit.edu/evt/summary_battery_specifications.pdf
+
+__compareable datasets__
+
+https://www.journals.elsevier.com/journal-of-energy-storage/mendeley
+
+__paper__
+
+Data analysis of battery storage systems [https://researchportal.hw.ac.uk/en/publications/data-analysis-of-battery-storage-systems-2]
