@@ -1,9 +1,16 @@
+__Battery Data Set__
 
-Experiments on Li-Ion batteries. Charging and discharging at different temperatures.  
-Records the impedance as the damage criterion.  
+
+
+__Li-ion Battery Aging Datasets__
+
+   
+
+This data set has been collected from a custom built battery prognostics testbed at the NASA Ames Prognostics Center of Excellence (PCoE). Li-ion batteries were run through 3 different operational profiles (charge, discharge and Electrochemical Impedance Spectroscopy) at different temperatures. Discharges were carried out at different current load levels until the battery voltage fell to preset voltage thresholds. Some of these thresholds were lower than that recommended by the OEM (2.7 V) in order to induce deep discharge aging effects. Repeated charge and discharge cycles result in accelerated aging of the batteries. The experiments were stopped when the batteries reached the end-of-life (EOL) criteria of 30% fade in rated capacity (from 2 Ah to 1.4 Ah).
+
 The data set was provided by the Prognostics CoE at NASA Ames.  
   
-Format 	The set is in .mat format and has been zipped.  
+The dataset format is in .mat format (matlab) and has been zipped.  
   
 __Datasets__
   
