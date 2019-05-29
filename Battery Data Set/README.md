@@ -11,6 +11,10 @@ This data set has been collected from a custom built battery prognostics testbed
 The data set was provided by the Prognostics CoE at NASA Ames.  
   
 The dataset format is in .mat format (matlab) and has been zipped.  
+
+**Intended Use:**
+
+The data sets can serve for a variety of purposes. Because these are essentially a large number of Run-to-Failure time series, the data can be set for development of prognostic algorithms. In particular, due to the differences in depth-of-discharge (DOD), the duration of rest periods and intrinsic variability, no two cells have the same state-of-life (SOL) at the same cycle index. The aim is to be able to manage this uncertainty, which is representative of actual usage, and make reliable predictions of Remaining Useful Life (RUL) in both the End-of-Discharge (EOD) and End-of-Life (EOL) contexts.
   
 __Datasets__
   
