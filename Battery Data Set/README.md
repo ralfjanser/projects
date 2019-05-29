@@ -1,5 +1,8 @@
 __Battery Data Set__
 
+*Introduction*
+
+It's not an easy task to find an unused dataset for any kind of training. The Nasa battery data set is already well know, nevertheless you won't find a data analysis on github. There are about 200 papers that mention this data set, some of them are used for this analysis.
 
 
 __Li-ion Battery Aging Datasets__
@@ -36,3 +39,5 @@ https://www.journals.elsevier.com/journal-of-energy-storage/mendeley
 __paper__
 
 Data analysis of battery storage systems [https://researchportal.hw.ac.uk/en/publications/data-analysis-of-battery-storage-systems-2]
+
+Fault Detection and Prognosis of Time Series Data with Random Projection Filter Bank [https://www.merl.com/publications/docs/TR2017-142.pdf]
