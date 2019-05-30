@@ -1,4 +1,4 @@
-__Battery Data Set__
+__Battery Data Set [1] __
 
 *Introduction*
 
@@ -119,7 +119,9 @@ Data Structure:
         Rct: Estimated charge transfer resistance (Ohms)  
  
 
+__REFERENCES__
 
+[1]  Saha, B., & Goebel, K. (2007). Battery data set. NASA Ames Prognostics Data Repository. Retrieved from https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
 
 
 
