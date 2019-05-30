@@ -2,7 +2,7 @@ __Battery Data Set__
 
 *Introduction*
 
-It's not an easy task to find an unused dataset for any kind of training. The Nasa battery data set is already well know, nevertheless you won't find a data analysis on github. There are about 200 papers that mention this data set, some of them are used for this analysis.
+It's not an easy task to find an unused dataset for any kind of training. The Nasa battery data set is already well known, nevertheless you won't find a data analysis on github. There are about 200 papers that mention this data set, some of them are used for this analysis.
 
 
 __Li-ion Battery Aging Datasets__
