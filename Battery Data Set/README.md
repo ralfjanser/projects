@@ -71,6 +71,19 @@ Data Structure:
 -  data: data structure containing the measurements  
    
    -  for charge the fields are:  
+   
+        Voltage_measured: Battery terminal voltage (Volts) 
+
+        Current_measured: Battery output current (Amps)  
+
+        Temperature_measured: Battery temperature (degree C)  
+
+        Current_charge: Current measured at charger (Amps)  
+
+        Voltage_charge: Voltage measured at charger (Volts)  
+
+        Time: Time vector for the cycle (secs)  
+
      
    -  for discharge the fields are:
    
