@@ -69,6 +69,17 @@ Data Structure:
    
    
 -  data: data structure containing the measurements  
+   
+   -  for charge the fields are:  
+     
+   -  for discharge the fields are:
+   
+   -  for impedance the fields are:
+
  
+
+
+
+
 
 
