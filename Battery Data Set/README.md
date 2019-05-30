@@ -1,4 +1,4 @@
-__Battery Data Set [1] __
+__Battery Data Set [1]__
 
 *Introduction*
 
