@@ -41,3 +41,34 @@ __paper__
 Data analysis of battery storage systems [https://researchportal.hw.ac.uk/en/publications/data-analysis-of-battery-storage-systems-2]
 
 Fault Detection and Prognosis of Time Series Data with Random Projection Filter Bank [https://www.merl.com/publications/docs/TR2017-142.pdf]
+
+  
+__data description__
+  
+Data Acquisition:
+  
+The testbed comprises:
+  
+* Commercially available Li-ion 18650 sized rechargeable batteries,  
+* Programmable 4-channel DC electronic load,  
+* Programmable 4-channel DC power supply,  
+* Voltmeter, ammeter and thermocouple sensor suite,  
+* Custom EIS equipment,  
+* Environmental chamber to impose various operational conditions,  
+* PXI chassis based DAQ and experiment control, and MATLAB based experiment control, data acquisition and prognostics algorithm evaluation setup (appx. data acquisition rate is 10Hz).  
+  
+Data Structure:  
+  
+-  cycle: top level structure array containing the charge, discharge and impedance operations  
+  
+-  type: operation  type, can be charge, discharge or impedance  
+  
+-  ambient_temperature: ambient temperature (degree C)  
+  
+-  time: the date and time of the start of the cycle, in MATLAB  date vector format    
+   
+   
+-  data: data structure containing the measurements  
+ 
+
+
