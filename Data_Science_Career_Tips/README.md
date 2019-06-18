@@ -14,11 +14,11 @@ https://towardsdatascience.com/top-10-statistics-mistakes-made-by-data-scientist
 __Top 10 Data Science Leaders You Should Follow__
 https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-4eeedc4db021
 
-  **https://www.linkedin.com/in/randylaosat/**
+  *https://www.linkedin.com/in/randylaosat/*  
   https://www.claoudml.com/
   
-  **https://www.linkedin.com/in/kylemckiou/**  
+  *https://www.linkedin.com/in/kylemckiou/*  
   https://www.datasciencedreamjob.com/
 
-  **https://www.linkedin.com/in/keremenko/**  
+  *https://www.linkedin.com/in/keremenko/*  
   https://www.superdatascience.com/
