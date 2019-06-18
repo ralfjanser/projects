@@ -38,3 +38,12 @@ Register for SQL Summer Camp here!
 
 See you at camp,
 Rachael T.
+
+
+Reading:
+
+https://www.kdnuggets.com/2019/05/7-steps-mastering-sql-data-science-2019-edition.html
+
+https://www.kdnuggets.com/2018/09/sql-case-study-helping-startup-ceo-manage-data.html
+
+https://www.kdnuggets.com/2018/05/sql-not-sql-question.html
