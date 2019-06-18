@@ -8,6 +8,9 @@ https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d
 __10 Simple hacks to speed up your Data Analysis in Python__  
 https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
 
+__3 Must-have tools if you're serious about machine learning__
+https://fizzylogic.nl/2018/08/21/5-must-have-tools-if-youre-serious-about-machine-learning/
+
 __Top 10 Statistics Mistakes Made by Data Scientists__  
 https://towardsdatascience.com/top-10-statistics-mistakes-made-by-data-scientists-2d58ccf12ab1
 
