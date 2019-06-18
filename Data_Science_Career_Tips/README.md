@@ -11,8 +11,8 @@ https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in
 __Top 10 Statistics Mistakes Made by Data Scientists__  
 https://towardsdatascience.com/top-10-statistics-mistakes-made-by-data-scientists-2d58ccf12ab1
 
-__Top 10 Data Science Leaders You Should Follow__
-https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-4eeedc4db021
+__Top 10 Data Science Leaders You Should Follow__  
+https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-4eeedc4db021  
 
   *https://www.linkedin.com/in/randylaosat/*  
   https://www.claoudml.com/
