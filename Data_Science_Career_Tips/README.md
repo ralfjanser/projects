@@ -52,7 +52,10 @@ https://opendatascience.com/most-influential-data-science-research-papers-for-20
 
 __10 Compelling Machine Learning Dissertations from Ph.D. Students__  
 https://opendatascience.com/10-compelling-machine-learning-dissertations-from-phd-students/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=73877784&_hsenc=p2ANqtz-_LEQ3qBL2kKyr3lu5ZRPQczkzy53O0caDzLCnJpV1QlBckdYbiK0WFQFupBe2ky_wmwPh_R8coDWWEMc2yOdKSmS0N3w&_hsmi=73877784  
+  
 
+__Making Sense of Confusing Data Science Job Postings__
+https://opendatascience.com/making-sense-of-confusing-data-science-job-postings/
 
 
 
