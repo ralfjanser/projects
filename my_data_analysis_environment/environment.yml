@@ -1,0 +1,7 @@
+name: data_analysis
+dependencies:
+- python=3.6
+- pandas
+- numpy
+- jupyter
+- pytest
