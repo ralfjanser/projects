@@ -1,5 +1,14 @@
 
-__pandas_profiling_
+
+
+
+
+pip install plotly # Plotly is a pre-requisite before installing cufflinks
+pip install cufflinks
+
+
+
+__pandas_profiling__
 
 has currently to be installed manually
 
