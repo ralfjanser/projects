@@ -8,3 +8,4 @@ dependencies:
 - seaborn
 - pytest
 - scikit-learn
+- ipywidgets
