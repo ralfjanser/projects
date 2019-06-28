@@ -1,23 +1,25 @@
 
 
-__Notebook Extensions__
-Installation with conda:
+__Notebook Extensions__  
+Installation with conda:  
 
-conda install -c conda-forge jupyter_nbextensions_configurator
+conda install -c conda-forge jupyter_nbextensions_configurator  
+  
+Or with pip:  
+  
+pip install jupyter_contrib_nbextensions && jupyter contrib  
+nbextension install  
+  
+#incase you get permission errors on MacOS,  
+  
+pip install jupyter_contrib_nbextensions && jupyter contrib  
+nbextension install --user  
+  
 
-Or with pip:
-
-pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
-
-#incase you get permission errors on MacOS,
-
-pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install --user
-
-
-
-
-pip install plotly # Plotly is a pre-requisite before installing cufflinks
-pip install cufflinks
+__Plotly Cufflinks__  
+  
+pip install plotly # Plotly is a pre-requisite before installing cufflinks  
+pip install cufflinks  
 
 
 
