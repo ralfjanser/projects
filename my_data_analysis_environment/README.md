@@ -1,5 +1,18 @@
 
 
+__Notebook Extensions__
+Installation with conda:
+
+conda install -c conda-forge jupyter_nbextensions_configurator
+
+Or with pip:
+
+pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
+
+#incase you get permission errors on MacOS,
+
+pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install --user
+
 
 
 
